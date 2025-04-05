@@ -1,11 +1,12 @@
 body {
     font-family: Arial, sans-serif;
     display: flex;
+    flex-direction:column;
     justify-content: center;
     align-items: center;
     margin: 0;
      height: 100vh;
-    background-color: #ffffff;
+    background-color:black;
   }
   .calculator {
     background-color: #000000;
@@ -21,7 +22,7 @@ body {
     font-size: 24px;
     text-align: right;
     border-radius: 5px;
-    color:black;
+    color: #ffffff;
   }
   .buttons {
     display: grid;
