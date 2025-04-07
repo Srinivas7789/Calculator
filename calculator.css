@@ -3,7 +3,7 @@ body {
     display: flex;
     flex-direction:column;
     justify-content:center;
-    align-items: bottom;
+    align-items: center;
     margin: 0;
      height: 100vh;
     background-color:black;
