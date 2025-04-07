@@ -2,8 +2,8 @@ body {
     font-family: Arial, sans-serif;
     display: flex;
     flex-direction:column;
-    justify-content:baseline;
-    align-items: center;
+    justify-content:center;
+    align-items: bottom;
     margin: 0;
      height: 100vh;
     background-color:black;
